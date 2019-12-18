@@ -63,7 +63,7 @@ Para iniciar o desafio você deverá primeiramente cumprir os seguintes itens:
 
 🚨 **SALVE AS CREDENCIAIS. VOCÊ PRECISARÁ DELAS PARA SUBIR A APLICAÇÃO** 🚨
 
-Você precisará da credencial `IAM_APIKEY` (ou, em alguns casos, `APIKEY` apenas). Acesse https://cloud.ibm.com/resources e veja a lista de serviços, você encontrará todos os serviços provisionados na sua conta da IBM Cloud. Clique no *Watson Natural Language Understanding* provisionado anteriormente.
+Você precisará da credencial `IAM_APIKEY` (ou, em alguns casos, `APIKEY` apenas) e da `URL` do serviço. Para obter ambas, acesse https://cloud.ibm.com/resources e veja a lista de serviços, você encontrará todos os serviços provisionados na sua conta da IBM Cloud. Clique no *Watson Natural Language Understanding* provisionado anteriormente.
 
 Clique na barra lateral esquerda em *service credentials*, conforme mostrado na imagem abaixo.
 
@@ -92,9 +92,12 @@ Se precisar de ajuda, veja o vídeo abaixo de como treinar o seu modelo de anota
 
 Para subir a aplicação na IBM Cloud, você deve **clicar no botão abaixo**, que irá ativar a ferramenta de *Continuous Delivery* da IBM Cloud (também conhecida como *Delivery Pipeline*).
 
-🚨 **CLIQUE PARA SUBIR A APLICAÇÃO NA IBM CLOUD** 🚨
-
-[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/stanislawpompeu/natal)
+<div align="center">
+<p><b>🚨 CLIQUE PARA SUBIR A APLICAÇÃO NA IBM CLOUD 🚨</b></p>
+<a href="https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/stanislawpompeu/natal" target="_blank">
+<img src="https://cloud.ibm.com/devops/setup/deploy/button.png" />
+</a>
+</div>
 
 ### 7.1. Configurando o *IBM Continuous Delivery*
 
@@ -106,7 +109,7 @@ Para subir a aplicação na IBM Cloud, você deve **clicar no botão abaixo**, q
 
 ![img-02](/doc/images/ICC-02.png)
 
-3. Preencha os campos restantes com as credenciais que você guardou ao executar o passo [5.1](#5.1). Uma vez com todos os campos preenchidos clique em `Criar`, no canto superior direito.
+3. Preencha os campos restantes com as credenciais que você guardou ao executar o passo [5.1](#51-credenciais-do-watson-natural-language-understanding). Uma vez com todos os campos preenchidos clique em `Criar`, no canto superior direito.
 
 4. Clique em `Criar` para que seja fazer o deploy da aplicação na sua conta.
 
@@ -116,7 +119,7 @@ Para subir a aplicação na IBM Cloud, você deve **clicar no botão abaixo**, q
 
 ![img-04](/doc/images/ICC-04.png)
 
-6. Quando ambos os cartões estiverem com o estágio aprovado sua aplicação estará disponível para uso, basta acessar <seu-id>-icc.mybluemix.net, onde <seu-id> deve ser o id recebido por email. Caso o processo não inicie automaticamente, clique no botão `Play` do cartão `Build`. Caso ocorra algum erro no processo recomendamos que você tente refazer o porcesso.
+6. Quando ambos os cartões estiverem com o estágio aprovado sua aplicação estará disponível para uso, basta acessar `<seu-id>`-icc.mybluemix.net, onde `<seu-id>` deve ser o id recebido por email. Caso o processo não inicie automaticamente, clique no botão `Play` do cartão `Build`. Caso ocorra algum erro no processo recomendamos que você tente refazer o porcesso.
 
 ![img-05](/doc/images/ICC-05.png)
 
@@ -126,11 +129,11 @@ Para subir a aplicação na IBM Cloud, você deve **clicar no botão abaixo**, q
 
 Mande vários textos para analisar, com base no seu treinamento. Faça quantos testes forem necessários e, se precisar, treine e re-treine o seu modelo para melhorar cada vez mais. Quando se sentir confortável, faça a submissão do seu desafio. Você pode submeter novas soluções quantas vezes desejar -- apenas a submissão com a maior nota será considerada.
 
-Para submeter você deve acessar a aplicação Node.js implantada previamente na nuvem, preencher suas credenciais do *Watson Natural Language Understanding* nos capmos corretos, e clicar no botão para submeter sua solução.
+Para submeter você deve acessar a aplicação Node.js implantada previamente na nuvem, e clicar no botão para submeter sua solução.
 
-*Obs: Não é necessário um novo deploy para subtituir as credencias antigas. Dentro da aplicação no canto superior direito existe um ícone de engrenagem, ao clicar nele você poderá trocar as credencias do NLU e o Model ID sem precisar realizar um novo deploy.*
+*Obs: Caso queira trocar credenciais, não é necessário um novo deploy para substituir as credencias antigas. Dentro da aplicação no canto superior direito existe um ícone de engrenagem, ao clicar nele você poderá trocar as credencias do NLU e o Model ID sem precisar realizar um novo deploy.*
 
-1. Acesse <seu-id>-icc.mybluemix.net, onde <seu-id> deve ser subtituído pelo se id do desafio, o qual você deve ter recebido por email cujo assunto é `Christmas Challenge - Dados para o desafio`. Ao acessar a página você deve visualizar a imagem abaixo.
+1. Acesse `<seu-id>`-icc.mybluemix.net, onde `<seu-id>` deve ser subtituído pelo seu id do desafio, o qual você deve ter recebido por email cujo assunto é `Christmas Challenge - Dados para o desafio`. Ao acessar a página você deve visualizar a imagem abaixo.
 
 ![img-06](/doc/images/ICC-06.png)
 
@@ -138,7 +141,7 @@ Para submeter você deve acessar a aplicação Node.js implantada previamente na
 
 ![img-07](/doc/images/ICC-07.png)
 
-3. Quando se sentir confortável submeta sua solução. Será pedido uma senha, que foi enviada por email junto com seu id, procure na sua caixa entrada e spam por um email cujo assunto é `Christmas Challenge - Dados para o desafio`.
+3. Quando se sentir confortável submeta sua solução. Será pedida uma senha, que foi enviada por email junto com seu id, procure na sua caixa entrada e spam por um email cujo assunto é `Christmas Challenge - Dados para o desafio`.
 
 ![img-08](/doc/images/ICC-08.png)
 
