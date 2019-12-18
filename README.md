@@ -21,7 +21,7 @@
 
 ## 1. Introdução
 
-A Natal Corp.(NYSE:SNTK1, NASDAQ:SNTK), desde do ano 374 D.C no ramo de brinquedos, trazendo alegria para as crianças que se comportaram bem durante o ano e buscando sempre inovar seu processos internos, propõem um desafio em conjunto com a IBM, para a comunidade de desenvolvedores ajudar nossa empresa a continuar prestando o excelente serviço que temos prestado a séculos. Os Duendes tem reclamado muito que a quantidade de cartas recebidas é enorme e que a cada ano que passa as horas extras realizadas só aumenta, mesmo com a contratação de novos funcionários. Dentro deste contexto, o desafio é: criar um analisador de cartas com Inteligência Artifical, capaz de extrair informações importantes que possam nos ajudar a cumprir nossa milenar tarefa.
+A Natal Corp.(NYSE:SNTK1, NASDAQ:SNTK), desde do ano 374 D.C no ramo de brinquedos, trazendo alegria para as crianças que se comportaram bem durante o ano e buscando sempre inovar seus processos internos, propõem um desafio em conjunto com a IBM, para a comunidade de desenvolvedores ajudar nossa empresa a continuar prestando o excelente serviço que temos prestado a séculos. Os Duendes tem reclamado muito que a quantidade de cartas recebidas é enorme e que a cada ano que passa as horas extras realizadas só aumenta, mesmo com a contratação de novos funcionários. Dentro deste contexto, o desafio é: criar um analisador de cartas com Inteligência Artifical, capaz de extrair informações importantes que possam nos ajudar a cumprir nossa milenar tarefa.
 
 Ho ho ho Feliz Natal!<br>
 Papai Noel<br>
