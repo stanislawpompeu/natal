@@ -104,11 +104,11 @@ Para subir a aplicação na IBM Cloud, você deve **clicar no botão abaixo**, q
 
 2. Preencha o Campo ID para o desafio com o seu ID, você recebeu ele no email que usou para se increver no desafio, procure na sua caixa de entrada um email com assunto `Christmas Challenge - Dados para o desafio`, caso não encontre verifique também sua caixa de spam.
 
-3. Clique em `Criar` para que seja fazer o deploy da aplicação na sua conta.
-
 ![img-02](/doc/images/ICC-02.png)
 
-4. Preencha os campos restantes com as credenciais que você guardou ao executar o passo [5.1](#5.1). Uma vez com todos os campos preenchidos clique em `Criar`, no canto superior direito.
+3. Preencha os campos restantes com as credenciais que você guardou ao executar o passo [5.1](#5.1). Uma vez com todos os campos preenchidos clique em `Criar`, no canto superior direito.
+
+4. Clique em `Criar` para que seja fazer o deploy da aplicação na sua conta.
 
 ![img-03](/doc/images/ICC-03.png)
 
