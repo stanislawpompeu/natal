@@ -16,7 +16,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 // Renderizar pasta build
-app.use(express.static(path.join(__dirname, "../build")));
+app.use(express.static(path.join(__dirname, "/build")));
 
 const initialCredentials = {
     apikey: process.env.NLU_API_KEY,

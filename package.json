@@ -2,7 +2,7 @@
   "name": "ibm-christmas-challenge",
   "version": "1.0.0",
   "description": "",
-  "main": "server/server.js",
+  "main": "server.js",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
@@ -13,7 +13,7 @@
     "socket.io": "^2.3.0"
   },
   "scripts": {
-    "start": "node server/server.js"
+    "start": "node server.js"
   },
   "author": "IBM Developer BR",
   "license": "Apache 2.0"
