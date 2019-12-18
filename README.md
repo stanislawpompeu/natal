@@ -94,31 +94,31 @@ Para subir a aplicação na IBM Cloud, você deve **clicar no botão abaixo**, q
 
 🚨 **CLIQUE PARA SUBIR A APLICAÇÃO NA IBM CLOUD** 🚨
 
-[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/stanislawpompeu/natal)
+[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://TODO/)
 
 ### 7.1. Configurando o *IBM Continuous Delivery*
 
 1. Configure o Toolchain Name com o nome `IBM Christmas Challenge`. A região onde sua Toolchain irá rodar fica a sua escolha, recomendamos que use `Dallas`. Com campos preenchidos clique no ícone de `Delivery Pipeline` na parte de baixo da imagem.
 
-![img-01](/support/img/ICC-01.png)
+![img-01](/doc/images/ICC-01.png)
 
 2. Preencha o Campo ID para o desafio com o seu ID, você recebeu ele no email que usou para se increver no desafio, procure na sua caixa de entrada um email com assunto `Christmas Challenge - Dados para o desafio`, caso não encontre verifique também sua caixa de spam.
 
 3. Clique em `Criar` para que seja fazer o deploy da aplicação na sua conta.
 
-![img-02](/support/img/ICC-02.png)
+![img-02](/doc/images/ICC-02.png)
 
 4. Preencha os campos restantes com as credenciais que você guardou ao executar o passo [5.1](#5.1). Uma vez com todos os campos preenchidos clique em `Criar`, no canto superior direito.
 
-![img-03](/support/img/ICC-03.png)
+![img-03](/doc/images/ICC-03.png)
 
 5. Neste momento sua Toolchain estará configurada corretamente. Para acompanhar o deploy da aplicação clique em `Delivery Pipeline`.
 
-![img-04](/support/img/ICC-04.png)
+![img-04](/doc/images/ICC-04.png)
 
 6. Quando ambos os cartões estiverem com o estágio aprovado sua aplicação estará disponível para uso, basta acessar <seu-id>-icc.mybluemix.net, onde <seu-id> deve ser o id recebido por email. Caso o processo não inicie automaticamente, clique no botão `Play` do cartão `Build`. Caso ocorra algum erro no processo recomendamos que você tente refazer o porcesso.
 
-![img-05](/support/img/ICC-05.png)
+![img-05](/doc/images/ICC-05.png)
 
 ## 8. Submetendo sua solução
 
@@ -132,23 +132,23 @@ Para submeter você deve acessar a aplicação Node.js implantada previamente na
 
 1. Acesse <seu-id>-icc.mybluemix.net, onde <seu-id> deve ser subtituído pelo se id do desafio, o qual você deve ter recebido por email cujo assunto é `Christmas Challenge - Dados para o desafio`. Ao acessar a página você deve visualizar a imagem abaixo.
 
-![img-06](/support/img/ICC-06.png)
+![img-06](/doc/images/ICC-06.png)
 
 2. Faça os testes que julgar necessário.
 
-![img-07](/support/img/ICC-07.png)
+![img-07](/doc/images/ICC-07.png)
 
 3. Quando se sentir confortável submeta sua solução. Será pedido uma senha, que foi enviada por email junto com seu id, procure na sua caixa entrada e spam por um email cujo assunto é `Christmas Challenge - Dados para o desafio`.
 
-![img-08](/support/img/ICC-08.png)
+![img-08](/doc/images/ICC-08.png)
 
 4. Com a submissão realizada você deverá visualizar a mensagem da imagem abaixo.
 
-![img-09](/support/img/ICC-09.png)
+![img-09](/doc/images/ICC-09.png)
 
 5. Após alguns segundos você deverá receber sua pontuação na tela conforme a imagem abaixo.
 
-![img-10](/support/img/ICC-10.png)
+![img-10](/doc/images/ICC-10.png)
 
 ## Material de apoio
 
