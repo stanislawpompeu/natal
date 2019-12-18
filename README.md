@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
 
-# Corrida de Renas
+# IBM Christmas Challenge
 
 * [1. Introdução](#1-introdução)
 * [2. Desafio](#2-desafio)
