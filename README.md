@@ -94,7 +94,7 @@ Para subir a aplicação na IBM Cloud, você deve **clicar no botão abaixo**, q
 
 <div align="center">
 <p><b>🚨 CLIQUE PARA SUBIR A APLICAÇÃO NA IBM CLOUD 🚨</b></p>
-<a href="https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/stanislawpompeu/natal" target="blank">
+<a href="https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/stanislawpompeu/natal" target="_blank">
 <img src="https://cloud.ibm.com/devops/setup/deploy/button.png" />
 </a>
 </div>
