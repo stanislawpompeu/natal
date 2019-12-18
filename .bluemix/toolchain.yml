@@ -27,7 +27,7 @@ services:
       repo_url: https://github.com/stanislawpompeu/natal
       type: link
       has_issues: false
-      enable_traceability: true
+      enable_traceability: false
   build:
     service_id: pipeline
     parameters:
