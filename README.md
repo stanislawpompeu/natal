@@ -94,7 +94,7 @@ Para subir a aplicação na IBM Cloud, você deve **clicar no botão abaixo**, q
 
 🚨 **CLIQUE PARA SUBIR A APLICAÇÃO NA IBM CLOUD** 🚨
 
-[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://TODO/)
+[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/stanislawpompeu/natal)
 
 ### 7.1. Configurando o *IBM Continuous Delivery*
 
